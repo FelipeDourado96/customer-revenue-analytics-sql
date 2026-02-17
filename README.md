@@ -1,4 +1,4 @@
-# Custome Revenue Analytics SQL
+# Customer Revenue Analytics SQL
 📊 About This Project
 
 In this project, I explored a real Brazilian e-commerce dataset (Olist) to better understand revenue performance and customer behavior over time.
